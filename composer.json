@@ -1,5 +1,5 @@
 {
-    "name": "emnsen/swoole-server-bundle",
+    "name": "brandoriented/swoole-server-bundle",
     "description": "Symfony Swoole HTTP Server Bundle",
     "type": "symfony-bundle",
     "authors": [
